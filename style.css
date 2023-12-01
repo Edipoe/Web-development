@@ -98,7 +98,7 @@ nav {
 }
 
 .heading1 h1 {
-  background: linear-gradient(45deg, #4f17e8, #f92c03);
+  background: linear-gradient(45deg, #ff0000, #ffa200);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -168,8 +168,9 @@ footer p a {
   position: relative;
 }
 .heading1 video {
-  opacity: 0.4;
+  opacity: 0.35;
   width: 100vw;
+  object-fit: cover;
 }
 
 @keyframes slideLeft {
