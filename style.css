@@ -226,3 +226,8 @@ footer p a {
   font-style: italic;
   font-size: 28px;
 }
+.image1,
+.image2,
+.image3 {
+  height: 320px;
+}
